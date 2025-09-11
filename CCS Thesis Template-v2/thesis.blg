@@ -1,0 +1,37 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'thesis.blg'
+[128] biber-MSWIN64:340> INFO - === 
+[172] Biber.pm:419> INFO - Reading 'thesis.bcf'
+[284] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[284] Biber.pm:979> INFO - Found 5 citekeys in bib section 1
+[285] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[285] Biber.pm:979> INFO - Found 2 citekeys in bib section 2
+[285] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[285] Biber.pm:979> INFO - Found 0 citekeys in bib section 3
+[285] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[285] Biber.pm:979> INFO - Found 0 citekeys in bib section 4
+[285] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[285] Biber.pm:979> INFO - Found 0 citekeys in bib section 5
+[285] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[317] Biber.pm:4419> INFO - Processing section 0
+[332] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 0
+[393] bibtex.pm:1713> INFO - LaTeX decoding ...
+[408] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[485] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[485] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[485] Biber.pm:4239> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'en-US'
+[485] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[498] Biber.pm:4419> INFO - Processing section 1
+[498] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 1
+[559] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[559] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[560] Biber.pm:4239> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'en-US'
+[560] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[570] Biber.pm:4419> INFO - Processing section 2
+[571] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 2
+[621] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[621] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[621] Biber.pm:4239> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'en-US'
+[621] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[623] bbl.pm:660> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[629] bbl.pm:763> INFO - Output to thesis.bbl
